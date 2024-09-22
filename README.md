@@ -3,3 +3,5 @@
 
 # Conflicto resuelto!!!
 # Navegacion lista
+# Estilo eliminado 
+# Repositorio regnerado
